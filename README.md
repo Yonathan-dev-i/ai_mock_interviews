@@ -678,17 +678,3 @@ export const dummyInterviews: Interview[] = [
 
 </details>
 
-
-## <a name="links">🔗 Assets</a>
-
-Los recursos públicos utilizados en el proyecto se pueden encontrar [aquí](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
-
-## <a name="more">🚀 Más</a>
-
-**Mejora tus habilidades con el curso Next.js Pro**
-
-¿Disfrutaste creando este proyecto? Sumérgete en nuestros cursos PRO para una experiencia de aprendizaje más enriquecedora. Están repletos de explicaciones detalladas, funciones geniales y ejercicios para mejorar tus habilidades. ¡Anímate a probarlos!
-
-<a href="https://jsmastery.pro/next15" target="_blank">
-   <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
-</a>
