@@ -31,17 +31,9 @@
 
 ## 🚨 Tutorial
 
-Este repositorio contiene el código correspondiente a un tutorial detallado disponible en nuestro canal de YouTube, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-Si prefieres el aprendizaje visual, este es el recurso perfecto para ti. ¡Sigue nuestro tutorial para aprender a construir proyectos como estos paso a paso de una manera amigable para principiantes!
-
-<a href="https://www.youtube.com/watch?v=8GK8R77Bd7g" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introducción</a>
 
 Construido con Next.js para la interfaz de usuario y la lógica de backend, Firebase para la autenticación y el almacenamiento de datos, diseñado con TailwindCSS y utilizando los agentes de voz de Vapi, Prepwise es un proyecto de sitio web diseñado para ayudarte a aprender a integrar modelos de IA con tus aplicaciones. La plataforma ofrece una experiencia elegante y moderna para la preparación de entrevistas de trabajo.
-
-Si estás empezando y necesitas ayuda o te encuentras con algún error, únete a nuestra activa comunidad de Discord con más de **50k+** miembros. Es un lugar donde la gente se ayuda mutuamente.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
@@ -82,19 +74,6 @@ Asegúrate de tener lo siguiente instalado en tu máquina:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Administrador de Paquetes de Node)
-
-**Clonar el Repositorio**
-
-```bash
-git clone [https://github.com/adrianhajdin/ai_mock_interviews.git](https://github.com/adrianhajdin/ai_mock_interviews.git)
-cd ai_mock_interviews
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
 
 **Configurar variables de entorno**
 
@@ -702,14 +681,13 @@ export const dummyInterviews: Interview[] = [
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
+Los recursos públicos utilizados en el proyecto se pueden encontrar [aquí](https://drive.google.com/drive/folders/1DuQ9bHH3D3ZAN_CFKfBgsaB8DEhEdnog?usp=sharing)
 
-## <a name="more">🚀 More</a>
+## <a name="more">🚀 Más</a>
 
-**Advance your skills with Next.js Pro Course**
+**Mejora tus habilidades con el curso Next.js Pro**
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+¿Disfrutaste creando este proyecto? Sumérgete en nuestros cursos PRO para una experiencia de aprendizaje más enriquecedora. Están repletos de explicaciones detalladas, funciones geniales y ejercicios para mejorar tus habilidades. ¡Anímate a probarlos!
 
 <a href="https://jsmastery.pro/next15" target="_blank">
    <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Project Banner">
