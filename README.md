@@ -17,8 +17,6 @@
 3. 🔋 [Características](#features)
 4. 🤸 [Inicio Rápido](#quick-start)
 5. 🕸️ [Fragmentos (Código para Copiar)](#snippets)
-6. 🔗 [Activos](#links)
-7. 🚀 [Más](#more)
 
 ## 🚨 Tutorial
 
