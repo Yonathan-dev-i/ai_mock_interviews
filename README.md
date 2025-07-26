@@ -8,9 +8,6 @@
 
   <h3 align="center">Prepwise: Una plataforma de preparación para entrevistas de trabajo impulsada por agentes de voz Vapi AI</h3>
 
-   <div align="center">
-     Construye este proyecto paso a paso con nuestro tutorial detallado en <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. ¡Únete a la familia JSM!
-    </div>
 </div>
 
 ## 📋 <a name="table">Tabla de Contenidos</a>
